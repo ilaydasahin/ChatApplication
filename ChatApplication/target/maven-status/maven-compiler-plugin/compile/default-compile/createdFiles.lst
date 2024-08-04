@@ -1,0 +1,4 @@
+com\mycompany\chatapplication\Client$IncomingReader.class
+com\mycompany\chatapplication\Server$ClientHandler.class
+com\mycompany\chatapplication\Server.class
+com\mycompany\chatapplication\Client.class
